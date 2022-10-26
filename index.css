@@ -1,0 +1,39 @@
+body {
+    background-color: green;
+    font-family:fantasy;
+    letter-spacing:4px;
+    color:orange;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+}
+.hungry {
+    width: 60%;
+   height: 400px;
+}
+.question {
+     color: white;
+     font-family: 'Times New Roman'
+}
+button:hover {
+background-color: purple;
+color: white;
+}
+button {
+    color: black;
+    background-color: gold;
+    border: 1px solid black;
+    padding: 30px;
+    display: inline-block;
+    margin: 2px;
+}
+#button1 , #button2 , #button3 {
+ 
+}
+ol {
+    list-style: none;
+}
+.answer {
+    display: inline-block;
+}
